@@ -7,4 +7,6 @@
     "$PhongBoost" 2
     "$PhongExponent" 5
     "$PhongFresnelRanges" "[0 0.5 1]"
+	
+	"$surfaceprop" "grass"
 }
