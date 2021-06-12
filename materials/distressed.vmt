@@ -1,5 +1,4 @@
 "VertexlitGeneric"
 {
     "$BaseTexture" "distressed"
-	"$halflambert" 1
 }
