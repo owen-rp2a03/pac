@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+    "$envmap" "metal"
+	$envmapsphere 1
+	$surfaceprop metal
+}
