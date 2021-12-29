@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "fridge"
+     	"$envmap" "env_cubemap"
+     	"$basealphaenvmapmask" 1 
+	"$envmaptint" .2 .2 .2
+	
+}
