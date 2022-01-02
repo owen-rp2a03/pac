@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "floor_tile"
+	"$color2" "[1 1 1]"
+	"$surfaceprop" "tile"
+	
+    "$envmap" "env_cubemap"
+    "$envmaptint" "[ .06 .06 .06 ]"
+    "$fresnelreflection" "0.1"
+}
+

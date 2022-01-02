@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "plaster"
+	"$BumpMap" "plaster_nrm"
+
+	"$color2" "[1 1 1]"
+
+	"$surfaceprop" "plaster"
+}
+
